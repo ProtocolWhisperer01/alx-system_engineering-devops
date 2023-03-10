@@ -1,2 +1,2 @@
 #!/bin/bash
-LC_COLLATE=C ls -a -p -m*
+ls -a -p -m*
